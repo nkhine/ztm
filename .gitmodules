@@ -1,0 +1,6 @@
+[submodule "cache"]
+	path = cache
+	url = git://github.com/nkhine/cache.git
+[submodule "public"]
+	path = public
+	url = git://github.com/nkhine/ztm.git

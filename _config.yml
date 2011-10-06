@@ -1,1 +1,1 @@
-exclude: cache/*  public/*
+exclude: README.md TODO.md cache/*  public/*

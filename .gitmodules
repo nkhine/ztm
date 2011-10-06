@@ -1,6 +1,6 @@
 [submodule "cache"]
 	path = cache
-	url = git://github.com/nkhine/cache.git
+	url = git://github.com/nkhine/ztm-cache.git
 [submodule "public"]
 	path = public
-	url = git://github.com/nkhine/ztm.git
+	url = git://github.com/nkhine/ztm-public.git
